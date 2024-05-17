@@ -8,8 +8,8 @@ class MyDirectories:
 
     def getQuotesDir():
         # Assuming your quotes directory is located in the current working directory under 'quotes'
-        return os.path.join("C:/Shubham/ATQSHW1/quotes")
+        return os.path.join("C:/Shubham/VWAP-Model/quotes")
         print("Here")
     def getTradesDir():
         # Assuming your quotes directory is located in the current working directory under 'quotes'
-        return os.path.join('C:/Shubham/ATQSHW1/trades')
+        return os.path.join('C:/Shubham/VWAP-Model/trades')
