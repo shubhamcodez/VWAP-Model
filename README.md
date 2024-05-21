@@ -21,20 +21,9 @@ The main objective is to calculate the risk adjusted cost of a guaranteed VWAP e
 The details of the solution is in optimal_execution.ipynb
 
 ## Results
-According to the non-linear regression equations:
+The result are a set of pricing script available in the [Guaranteed_VWAP_Pricing.ipynb](https://github.com/ssnyu/VWAP-Model/blob/main/Guaranteed_VWAP_Pricing.ipynb)
 
-$$h = \eta * \sigma * (\frac{X}{VT})^\beta$$
-
-$h$: temporary impact
-$\sigma$: stock specific volatility
-$X$: Daily imbalance (value)
-$V$:Average daily value 
-$T$: time
-
-We discovered $\eta = 0.33244$, $\beta = 0.36127$.
-
-The analysis of the fit of the model are in [descriptiveStats.ipynb](https://github.com/ssnyu/Market-Impact-Model/blob/main/descriptiveStats.ipynb)
-
+The unittests for the functions used in optimal execution and calculating the cost are in test_execution.py
 
 
 ## Supplementary 
