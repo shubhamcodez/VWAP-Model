@@ -1,4 +1,4 @@
-# VWAP-Model
+## VWAP-Model
 
 ## Description
 
@@ -35,3 +35,8 @@ The unittests for the functions used in optimal execution and calculating the co
 ## Supplementary 
 
 ### Directory structure - [Directory.ReadME](https://github.com/ssnyu/Market-Impact-Model/blob/main/Directory.md)
+
+### Images
+
+![Stock Volatility](Data/stock_volitality.png)
+![Volume Plot](Data/volume_plot.png)
