@@ -28,7 +28,7 @@ The unittests for the functions used in optimal execution and calculating the co
 
 ## Team Members
 
-- [Shubham Singh](https://github.com/ssnyu) NetID: sks9437
+- [Shubham Singh](https://github.com/shubhamcodez) NetID: sks9437
 - [Tianqi Wang](https://github.com/foggyleo) NetID: tw2250
 
 
@@ -38,5 +38,5 @@ The unittests for the functions used in optimal execution and calculating the co
 
 ### Images
 
-![Stock Volatility](Data/stock_volitality.png)
+![Stock Volatility](Data/stock volitality.png)
 ![Volume Plot](Data/volume_plot.png)
