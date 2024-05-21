@@ -25,6 +25,11 @@ The result are a set of pricing script available in the [Guaranteed_VWAP_Pricing
 
 The unittests for the functions used in optimal execution and calculating the cost are in test_execution.py
 
+## Team Members
+
+- [Shubham Singh](https://github.com/ssnyu) NetID: sks9437
+- [Tianqi Wang](https://github.com/foggyleo) NetID: tw2250
+
 
 ## Supplementary 
 
