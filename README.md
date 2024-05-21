@@ -18,6 +18,7 @@ The main objective is to calculate the risk adjusted cost of a guaranteed VWAP e
 1. Solved for the optimal trading trajectory to minimize the expected risk adjusted cost of execution.
 2. Using a multiple linear regression to construct a volume model.
 3. Using the input from the volume model, we compute for the risk adjusted cost of the execution.
+
 The details of the solution is in optimal_execution.ipynb
 
 ## Results
